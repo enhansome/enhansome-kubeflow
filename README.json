@@ -19,7 +19,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15811
+            "stars": 15812
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:37:09Z",
+            "last_commit": "2026-08-13T18:57:14Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4181
+            "stars": 4182
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T20:14:57Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2180
+            "stars": 2182
           }
         },
         {
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:35.900Z",
+    "last_updated": "2026-08-13T20:19:08.734Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
