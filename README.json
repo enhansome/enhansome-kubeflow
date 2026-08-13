@@ -1,0 +1,250 @@
+{
+  "items": [
+    {
+      "description": "The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.",
+      "items": [],
+      "title": "What is Kubeflow?"
+    },
+    {
+      "description": "Main projects in Kubeflow:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubeflow Main Repository",
+          "description": "which provides the front-end to access major components of Kubeflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-10T11:31:26Z",
+            "owner": "kubeflow",
+            "repo": "kubeflow",
+            "stars": 15811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipelines",
+          "description": "is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:37:09Z",
+            "owner": "kubeflow",
+            "repo": "pipelines",
+            "stars": 4181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training Operator",
+          "description": "provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:14:57Z",
+            "owner": "kubeflow",
+            "repo": "trainer",
+            "stars": 2180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Katib",
+          "description": "is a Kubernetes-native project for automated machine learning (AutoML).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T23:09:31Z",
+            "owner": "kubeflow",
+            "repo": "katib",
+            "stars": 1694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arena",
+          "description": "is a CLI for Kubeflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T06:03:45Z",
+            "owner": "kubeflow",
+            "repo": "arena",
+            "stars": 817
+          }
+        }
+      ],
+      "title": "Ecosystem Projects"
+    },
+    {
+      "description": "Please check out the official Kubeflow YouTube channel.",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Engineering Cloud Native AI Platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introducing Couler: Unified Interface for Constructing and Managing Workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Production-Ready AI Platform on Kubernetes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Cloud-Native Distributed Machine Learning Pipelines at Scale",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:44:49Z",
+            "owner": "terrytangyuan",
+            "repo": "public-talks",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Additional videos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubeflow Steering Committee (KSC)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T20:31:26Z",
+            "owner": "kubeflow",
+            "repo": "community",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Working Groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T20:31:26Z",
+            "owner": "kubeflow",
+            "repo": "community",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community Governance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T20:31:26Z",
+            "owner": "kubeflow",
+            "repo": "community",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community User Surveys (2024",
+          "description": ", 2023, 2022, 2019 Fall, 2019 Spring)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T20:31:26Z",
+            "owner": "kubeflow",
+            "repo": "community",
+            "stars": 196
+          }
+        }
+      ],
+      "title": "Community"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:35.900Z",
+    "original_repository": "terrytangyuan/awesome-kubeflow",
+    "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
+    "enhanced_repository": "enhansome/enhansome-kubeflow",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kubeflow with stars"
+  }
+}
