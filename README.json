@@ -19,7 +19,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15813
+            "stars": 15812
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-14T10:23:47Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4183
+            "stars": 4185
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T02:58:34Z",
+            "last_commit": "2026-08-14T22:17:38Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2183
+            "stars": 2184
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-06T23:09:31Z",
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1694
+            "stars": 1695
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-29T06:03:45Z",
             "owner": "kubeflow",
             "repo": "arena",
-            "stars": 817
+            "stars": 818
           }
         }
       ],
@@ -190,7 +190,7 @@
             "last_commit": "2026-08-09T20:31:26Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-09T20:31:26Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2026-08-09T20:31:26Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-08-09T20:31:26Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 196
+            "stars": 197
           }
         }
       ],
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:13:38.365Z",
+    "last_updated": "2026-08-15T19:54:04.675Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
