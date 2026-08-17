@@ -19,7 +19,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15815
+            "stars": 15816
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T07:30:06Z",
+            "last_commit": "2026-08-17T11:40:20Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4184
+            "stars": 4186
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T02:31:35Z",
+            "last_commit": "2026-08-17T19:26:48Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2185
+            "stars": 2184
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-29T06:03:45Z",
+            "last_commit": "2026-08-17T12:22:20Z",
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 818
@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-09T20:31:26Z",
+            "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
             "stars": 197
@@ -201,7 +201,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-09T20:31:26Z",
+            "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
             "stars": 197
@@ -215,7 +215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-09T20:31:26Z",
+            "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
             "stars": 197
@@ -229,7 +229,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-09T20:31:26Z",
+            "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
             "stars": 197
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:53:22.094Z",
+    "last_updated": "2026-08-17T19:57:46.179Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
