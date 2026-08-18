@@ -19,7 +19,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15816
+            "stars": 15821
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:40:20Z",
+            "last_commit": "2026-08-18T18:14:56Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4186
+            "stars": 4187
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T19:26:48Z",
+            "last_commit": "2026-08-18T19:21:40Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2184
+            "stars": 2187
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T12:22:20Z",
+            "last_commit": "2026-08-18T10:03:49Z",
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 818
@@ -100,7 +100,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-08-12T15:44:49Z",
             "owner": "terrytangyuan",
             "repo": "public-talks",
-            "stars": 35
+            "stars": 34
           }
         }
       ],
@@ -240,7 +240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:57:46.179Z",
+    "last_updated": "2026-08-18T19:56:18.266Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
