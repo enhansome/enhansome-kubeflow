@@ -37,28 +37,28 @@ The Kubeflow project is dedicated to making deployments of machine learning (ML)
 
 Main projects in Kubeflow:
 
-* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,821 | 🐛 0 | 📅 2026-07-10 which provides the front-end to access major components of Kubeflow.
-* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,187 | 🐛 467 | 🌐 Python | 📅 2026-08-18 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
-* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,187 | 🐛 170 | 🌐 Go | 📅 2026-08-18 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
+* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,822 | 🐛 0 | 📅 2026-07-10 which provides the front-end to access major components of Kubeflow.
+* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,188 | 🐛 467 | 🌐 Python | 📅 2026-08-19 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,187 | 🐛 171 | 🌐 Go | 📅 2026-08-19 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
 * [Katib](https://github.com/kubeflow/katib) ⭐ 1,695 | 🐛 106 | 🌐 Python | 📅 2026-08-06 is a Kubernetes-native project for automated machine learning (AutoML).
-* [Arena](https://github.com/kubeflow/arena) ⭐ 818 | 🐛 47 | 🌐 Go | 📅 2026-08-18 is a CLI for Kubeflow.
+* [Arena](https://github.com/kubeflow/arena) ⭐ 818 | 🐛 49 | 🌐 Go | 📅 2026-08-19 is a CLI for Kubeflow.
 
 Other open source projects that use or integrate with Kubeflow:
 
-* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,910 | 🐛 1,258 | 🌐 Go | 📅 2026-08-18 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,954 | 🐛 151 | 🌐 Python | 📅 2026-08-18 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [KServe](https://github.com/kserve/kserve) ⭐ 5,801 | 🐛 201 | 🌐 Go | 📅 2026-08-18 is a standardized serverless ML inference platform on Kubernetes.
-* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,552 | 🐛 146 | 🌐 Python | 📅 2026-08-18 is a framework to build portable, production-ready MLOps pipelines.
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,915 | 🐛 1,256 | 🌐 Go | 📅 2026-08-19 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,955 | 🐛 150 | 🌐 Python | 📅 2026-08-19 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [KServe](https://github.com/kserve/kserve) ⭐ 5,804 | 🐛 198 | 🌐 Go | 📅 2026-08-18 is a standardized serverless ML inference platform on Kubernetes.
+* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,553 | 🐛 146 | 🌐 Python | 📅 2026-08-19 is a framework to build portable, production-ready MLOps pipelines.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,187 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ⭐ 4,774 | 🐛 396 | 🌐 Go | 📅 2026-03-23 is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,719 | 🐛 126 | 🌐 MDX | 📅 2026-08-17 is a platform for building, training, and monitoring large scale deep learning applications.
-* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 1,996 | 🐛 267 | 🌐 Python | 📅 2026-08-18 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
+* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 1,996 | 🐛 264 | 🌐 Python | 📅 2026-08-19 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
 * [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,749 | 🐛 194 | 🌐 Java | 📅 2024-07-23 is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
-* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,691 | 🐛 118 | 🌐 Python | 📅 2026-08-18 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,692 | 🐛 119 | 🌐 Python | 📅 2026-08-19 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [Couler](https://github.com/couler-proj/couler) ⭐ 943 | 🐛 21 | 🌐 Python | 📅 2024-10-08 provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) ⭐ 702 | 🐛 55 | 🌐 Python | 📅 2026-08-17 is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [deployKF](https://github.com/deployKF/deployKF) ⭐ 466 | 🐛 66 | 🌐 Shell | 📅 2024-08-03 effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-18 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-19 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
   <a name="books" />
 * [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) ⭐ 67 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-09 web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 * [WizStudio](https://wizstudio.litwizlabs.ai) is a web based tool that allows the users to build Kubeflow pipelines using drag and drop interface.
@@ -229,4 +229,4 @@ Social media accounts:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

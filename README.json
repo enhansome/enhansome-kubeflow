@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.",
-      "items": [],
-      "title": "What is Kubeflow?"
-    },
-    {
-      "description": "Main projects in Kubeflow:",
+      "description": "Main projects in Kubeflow:\nOther open source projects that use or integrate with Kubeflow:",
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112647343,
             "language": null,
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15821
+            "stars": 15822
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-18T18:14:56Z",
+            "last_commit": "2026-08-19T01:07:37Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4187
+            "stars": 4188
           }
         },
         {
@@ -43,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95700338,
             "language": "Go",
-            "last_commit": "2026-08-18T19:21:40Z",
+            "last_commit": "2026-08-19T02:29:50Z",
             "owner": "kubeflow",
             "repo": "trainer",
             "stars": 2187
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127941481,
             "language": "Python",
             "last_commit": "2026-08-06T23:09:31Z",
             "owner": "kubeflow",
@@ -71,11 +70,237 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 142853225,
             "language": "Go",
-            "last_commit": "2026-08-18T10:03:49Z",
+            "last_commit": "2026-08-19T03:36:29Z",
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argo Workflows",
+          "description": "is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100982449,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:38:38Z",
+            "owner": "argoproj",
+            "repo": "argo-workflows",
+            "stars": 16915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kedro",
+          "description": "is an open-source Python framework for creating reproducible, maintainable and modular data science code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182067506,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:33:14Z",
+            "owner": "kedro-org",
+            "repo": "kedro",
+            "stars": 10955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KServe",
+          "description": "is a standardized serverless ML inference platform on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178075572,
+            "language": "Go",
+            "last_commit": "2026-08-18T10:06:44Z",
+            "owner": "kserve",
+            "repo": "kserve",
+            "stars": 5804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZenML",
+          "description": "is a framework to build portable, production-ready MLOps pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314197645,
+            "language": "Python",
+            "last_commit": "2026-08-19T10:11:02Z",
+            "owner": "zenml-io",
+            "repo": "zenml",
+            "stars": 5553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLFlow",
+          "description": "extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151525500,
+            "language": "Go",
+            "last_commit": "2024-04-18T08:08:51Z",
+            "owner": "sql-machine-learning",
+            "repo": "sqlflow",
+            "stars": 5187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seldon",
+          "description": "is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114898943,
+            "language": "Go",
+            "last_commit": "2026-03-23T11:39:54Z",
+            "owner": "SeldonIO",
+            "repo": "seldon-core",
+            "stars": 4774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polyaxon",
+          "description": "is a platform for building, training, and monitoring large scale deep learning applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77383688,
+            "language": "MDX",
+            "last_commit": "2026-08-17T19:18:08Z",
+            "owner": "polyaxon",
+            "repo": "polyaxon",
+            "stars": 3719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elyra",
+          "description": "is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216914329,
+            "language": "Python",
+            "last_commit": "2026-08-19T05:54:31Z",
+            "owner": "elyra-ai",
+            "repo": "elyra",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModelDB",
+          "description": "is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71305435,
+            "language": "Java",
+            "last_commit": "2024-07-23T17:06:34Z",
+            "owner": "VertaAI",
+            "repo": "modeldb",
+            "stars": 1749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLRun",
+          "description": "is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205706595,
+            "language": "Python",
+            "last_commit": "2026-08-19T09:39:17Z",
+            "owner": "mlrun",
+            "repo": "mlrun",
+            "stars": 1692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Couler",
+          "description": "provides a unified interface for constructing and managing workflows on different workflow engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288523518,
+            "language": "Python",
+            "last_commit": "2024-10-08T03:31:54Z",
+            "owner": "couler-proj",
+            "repo": "couler",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kale",
+          "description": "is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167412097,
+            "language": "Python",
+            "last_commit": "2026-08-17T11:29:18Z",
+            "owner": "kubeflow",
+            "repo": "kale",
+            "stars": 702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deployKF",
+          "description": "effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614078982,
+            "language": "Shell",
+            "last_commit": "2024-08-03T00:31:48Z",
+            "owner": "deployKF",
+            "repo": "deployKF",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135473716,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T11:48:09Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipeline Editor",
+          "description": "web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379524484,
+            "language": "TypeScript",
+            "last_commit": "2022-08-09T07:46:11Z",
+            "owner": "Cloud-Pipelines",
+            "repo": "pipeline-editor",
+            "stars": 67
           }
         }
       ],
@@ -83,101 +308,109 @@
     },
     {
       "description": "Please check out the official Kubeflow YouTube channel.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Engineering Cloud Native AI Platform",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Introducing Couler: Unified Interface for Constructing and Managing Workflows",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Production-Ready AI Platform on Kubernetes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Cloud-Native Distributed Machine Learning Pipelines at Scale",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422591810,
+                "language": "Python",
+                "last_commit": "2026-08-12T15:44:49Z",
+                "owner": "terrytangyuan",
+                "repo": "public-talks",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Additional videos"
+        }
+      ],
       "title": "Videos"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Engineering Cloud Native AI Platform",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Introducing Couler: Unified Interface for Constructing and Managing Workflows",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Production-Ready AI Platform on Kubernetes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Cloud-Native Distributed Machine Learning Pipelines at Scale",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T15:44:49Z",
-            "owner": "terrytangyuan",
-            "repo": "public-talks",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Additional videos"
-    },
-    {
-      "description": "",
+      "description": "Social media accounts:",
       "items": [
         {
           "node_type": "item",
@@ -186,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120491536,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
@@ -200,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120491536,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
@@ -214,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120491536,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
@@ -228,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120491536,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
@@ -240,8 +477,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:56:18.266Z",
+    "last_updated": "2026-08-19T12:38:25.739Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
+    "original_repository_id": 586959213,
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
     "enhanced_repository_description": null,
