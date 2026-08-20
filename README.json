@@ -15,7 +15,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15823
+            "stars": 15824
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-19T01:07:37Z",
+            "last_commit": "2026-08-20T12:18:44Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4188
+            "stars": 4189
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 95700338,
             "language": "Go",
-            "last_commit": "2026-08-19T02:29:50Z",
+            "last_commit": "2026-08-20T02:29:07Z",
             "owner": "kubeflow",
             "repo": "trainer",
             "stars": 2190
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 142853225,
             "language": "Go",
-            "last_commit": "2026-08-19T16:45:42Z",
+            "last_commit": "2026-08-20T01:58:47Z",
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 818
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-19T14:47:34Z",
+            "last_commit": "2026-08-20T15:59:26Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16916
+            "stars": 16922
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 182067506,
             "language": "Python",
-            "last_commit": "2026-08-19T19:01:51Z",
+            "last_commit": "2026-08-20T14:49:31Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10955
+            "stars": 10956
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-19T15:09:41Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5805
+            "stars": 5810
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 314197645,
             "language": "Python",
-            "last_commit": "2026-08-19T15:49:44Z",
+            "last_commit": "2026-08-20T19:59:25Z",
             "owner": "zenml-io",
             "repo": "zenml",
-            "stars": 5553
+            "stars": 5554
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 77383688,
             "language": "MDX",
-            "last_commit": "2026-08-17T19:18:08Z",
+            "last_commit": "2026-08-20T10:11:56Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3719
+            "stars": 3721
           }
         },
         {
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 205706595,
             "language": "Python",
-            "last_commit": "2026-08-19T14:15:50Z",
+            "last_commit": "2026-08-20T17:10:59Z",
             "owner": "mlrun",
             "repo": "mlrun",
-            "stars": 1692
+            "stars": 1693
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T19:33:24Z",
+            "last_commit": "2026-08-20T16:37:34Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:57:39.258Z",
+    "last_updated": "2026-08-20T20:00:41.527Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_id": 586959213,
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
