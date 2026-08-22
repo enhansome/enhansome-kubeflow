@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15825
+            "stars": 15826
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-21T16:08:09Z",
+            "last_commit": "2026-08-21T21:10:03Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4191
+            "stars": 4192
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 95700338,
             "language": "Go",
-            "last_commit": "2026-08-21T14:25:39Z",
+            "last_commit": "2026-08-22T02:27:28Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2191
+            "stars": 2196
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-06T23:09:31Z",
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1696
+            "stars": 1697
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 142853225,
             "language": "Go",
-            "last_commit": "2026-08-21T11:09:26Z",
+            "last_commit": "2026-08-21T21:12:57Z",
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 818
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-21T14:32:03Z",
+            "last_commit": "2026-08-21T22:11:50Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16924
+            "stars": 16927
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-21T12:43:29Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10959
+            "stars": 10964
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 178075572,
             "language": "Go",
-            "last_commit": "2026-08-21T17:26:03Z",
+            "last_commit": "2026-08-22T14:24:40Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5815
+            "stars": 5817
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T13:46:59Z",
             "owner": "zenml-io",
             "repo": "zenml",
-            "stars": 5556
+            "stars": 5560
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-04-18T08:08:51Z",
             "owner": "sql-machine-learning",
             "repo": "sqlflow",
-            "stars": 5188
+            "stars": 5189
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 77383688,
             "language": "MDX",
-            "last_commit": "2026-08-20T10:11:56Z",
+            "last_commit": "2026-08-22T17:32:35Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
             "stars": 3722
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-19T17:33:22Z",
             "owner": "kubeflow",
             "repo": "kale",
-            "stars": 702
+            "stars": 703
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:10:28Z",
+            "last_commit": "2026-08-22T19:10:18Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:55:49.803Z",
+    "last_updated": "2026-08-22T19:54:44.862Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_id": 586959213,
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
