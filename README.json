@@ -27,7 +27,7 @@
             "archived": false,
             "id": 133100880,
             "language": "Python",
-            "last_commit": "2026-08-21T21:10:03Z",
+            "last_commit": "2026-08-23T19:49:05Z",
             "owner": "kubeflow",
             "repo": "pipelines",
             "stars": 4192
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T22:11:50Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16927
+            "stars": 16928
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 178075572,
             "language": "Go",
-            "last_commit": "2026-08-22T14:24:40Z",
+            "last_commit": "2026-08-23T13:59:16Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5817
+            "stars": 5819
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 314197645,
             "language": "Python",
-            "last_commit": "2026-08-21T13:46:59Z",
+            "last_commit": "2026-08-23T14:57:35Z",
             "owner": "zenml-io",
             "repo": "zenml",
             "stars": 5560
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-19T16:36:12Z",
             "owner": "elyra-ai",
             "repo": "elyra",
-            "stars": 1997
+            "stars": 1996
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 205706595,
             "language": "Python",
-            "last_commit": "2026-08-21T08:26:02Z",
+            "last_commit": "2026-08-23T14:48:26Z",
             "owner": "mlrun",
             "repo": "mlrun",
             "stars": 1693
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T19:10:18Z",
+            "last_commit": "2026-08-23T19:00:41Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:54:44.862Z",
+    "last_updated": "2026-08-23T19:54:25.364Z",
     "original_repository": "terrytangyuan/awesome-kubeflow",
     "original_repository_id": 586959213,
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
