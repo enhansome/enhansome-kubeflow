@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15835
-          }
+            "stars": 15840
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T19:07:06Z",
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4194
-          }
+            "stars": 4196
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 95700338,
             "language": "Go",
-            "last_commit": "2026-08-28T01:26:27Z",
+            "last_commit": "2026-08-29T01:15:16Z",
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2199
-          }
+            "stars": 2200
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kubeflow",
             "repo": "katib",
             "stars": 1699
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kubeflow",
             "repo": "arena",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-27T13:38:02Z",
+            "last_commit": "2026-08-28T20:09:07Z",
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16943
-          }
+            "stars": 16945
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 182067506,
             "language": "Python",
-            "last_commit": "2026-08-27T13:05:56Z",
+            "last_commit": "2026-08-28T23:26:40Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10974
-          }
+            "stars": 10975
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 178075572,
             "language": "Go",
-            "last_commit": "2026-08-27T20:03:30Z",
+            "last_commit": "2026-08-28T21:12:58Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5837
-          }
+            "stars": 5841
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 314197645,
             "language": "Python",
-            "last_commit": "2026-08-27T18:46:15Z",
+            "last_commit": "2026-08-29T00:43:58Z",
             "owner": "zenml-io",
             "repo": "zenml",
-            "stars": 5565
-          }
+            "stars": 5568
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "sql-machine-learning",
             "repo": "sqlflow",
             "stars": 5188
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "SeldonIO",
             "repo": "seldon-core",
             "stars": 4779
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 77383688,
             "language": "MDX",
-            "last_commit": "2026-08-26T14:17:22Z",
+            "last_commit": "2026-08-28T13:15:50Z",
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3725
-          }
+            "stars": 3726
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "VertaAI",
             "repo": "modeldb",
             "stars": 1749
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -222,11 +236,12 @@
             "archived": false,
             "id": 205706595,
             "language": "Python",
-            "last_commit": "2026-08-26T14:21:58Z",
+            "last_commit": "2026-08-28T08:24:42Z",
             "owner": "mlrun",
             "repo": "mlrun",
             "stars": 1693
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "couler-proj",
             "repo": "couler",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "kubeflow",
             "repo": "kale",
             "stars": 704
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "deployKF",
             "repo": "deployKF",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -282,11 +300,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:24:07Z",
+            "last_commit": "2026-08-29T02:16:12Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Cloud-Pipelines",
             "repo": "pipeline-editor",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         }
       ],
       "title": "Ecosystem Projects"
@@ -324,7 +344,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T02:26:36.343Z"
             }
           ],
           "description": null,
@@ -424,8 +450,9 @@
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 198
-          }
+            "stars": 199
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -439,8 +466,9 @@
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 198
-          }
+            "stars": 199
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -454,8 +482,9 @@
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 198
-          }
+            "stars": 199
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         },
         {
           "node_type": "item",
@@ -469,15 +498,16 @@
             "last_commit": "2026-08-17T12:46:35Z",
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 198
-          }
+            "stars": 199
+          },
+          "first_seen": "2026-08-29T02:26:36.343Z"
         }
       ],
       "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:31.386Z",
+    "last_updated": "2026-08-29T02:26:36.343Z",
     "original_repository_info": {
       "archived": false,
       "id": 586959213,
