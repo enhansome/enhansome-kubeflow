@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Toolkit for Kubernetes",
+            "homepage": "https://www.kubeflow.org/",
             "id": 112647343,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T18:25:34Z",
+            "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15840
+            "stars": 15840,
+            "topics": [
+              "google-kubernetes-engine",
+              "jupyter",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "minikube",
+              "ml",
+              "notebook",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -26,12 +41,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine Learning Pipelines for Kubeflow",
+            "homepage": "https://www.kubeflow.org/docs/components/pipelines/",
             "id": 133100880,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:07:06Z",
+            "open_issues": 464,
             "owner": "kubeflow",
             "repo": "pipelines",
-            "stars": 4196
+            "stars": 4196,
+            "topics": [
+              "data-science",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -42,12 +70,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+            "homepage": "https://trainer.kubeflow.org/en/latest/",
             "id": 95700338,
             "language": "Go",
-            "last_commit": "2026-08-29T01:15:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:42:54Z",
+            "open_issues": 162,
             "owner": "kubeflow",
             "repo": "trainer",
-            "stars": 2200
+            "stars": 2200,
+            "topics": [
+              "ai",
+              "distributed",
+              "fine-tuning",
+              "gpu",
+              "huggingface",
+              "jax",
+              "kubeflow",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "python",
+              "pytorch",
+              "tensorflow",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -58,12 +107,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Machine Learning on Kubernetes",
+            "homepage": "https://www.kubeflow.org/docs/components/katib",
             "id": 127941481,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:36:18Z",
+            "open_issues": 111,
             "owner": "kubeflow",
             "repo": "katib",
-            "stars": 1699
+            "stars": 1699,
+            "topics": [
+              "ai",
+              "automl",
+              "huggingface",
+              "hyperparameter-tuning",
+              "jax",
+              "kubeflow",
+              "kubernetes",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "neural-architecture-search",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -74,12 +143,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI for Kubeflow. ",
+            "homepage": "https://arena-docs.readthedocs.io",
             "id": 142853225,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:22:25Z",
+            "open_issues": 48,
             "owner": "kubeflow",
             "repo": "arena",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "deep-learning",
+              "docker",
+              "kubeflow",
+              "kubernetes",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -90,12 +170,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workflow Engine for Kubernetes",
+            "homepage": "https://argo-workflows.readthedocs.io/",
             "id": 100982449,
             "language": "Go",
-            "last_commit": "2026-08-28T20:09:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:33:55Z",
+            "open_issues": 1254,
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 16945
+            "stars": 16945,
+            "topics": [
+              "airflow",
+              "argo",
+              "argo-workflows",
+              "batch-processing",
+              "cloud-native",
+              "cncf",
+              "dag",
+              "data-engineering",
+              "gitops",
+              "hacktoberfest",
+              "k8s",
+              "knative",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "pipelines",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -106,12 +210,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+            "homepage": "https://kedro.org",
             "id": 182067506,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:26:40Z",
+            "open_issues": 143,
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10975
+            "stars": 10975,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "data-pipelines",
+              "hacktoberfest",
+              "kedro",
+              "machine-learning",
+              "machine-learning-engineering",
+              "mlops",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -122,12 +241,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+            "homepage": "https://kserve.github.io/website/",
             "id": 178075572,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:12:58Z",
+            "open_issues": 204,
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5841
+            "stars": 5841,
+            "topics": [
+              "artificial-intelligence",
+              "cncf",
+              "genai",
+              "hacktoberfest",
+              "istio",
+              "k8s",
+              "knative",
+              "kserve",
+              "kubeflow",
+              "kubernetes",
+              "llm-inference",
+              "machine-learning",
+              "mlops",
+              "model-interpretability",
+              "model-serving",
+              "pytorch",
+              "service-mesh",
+              "tensorflow",
+              "vllm",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -138,12 +283,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.",
+            "homepage": "https://zenml.io",
             "id": 314197645,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:43:58Z",
+            "open_issues": 159,
             "owner": "zenml-io",
             "repo": "zenml",
-            "stars": 5568
+            "stars": 5568,
+            "topics": [
+              "agentops",
+              "agents",
+              "ai",
+              "automl",
+              "data-science",
+              "deep-learning",
+              "devops-tools",
+              "genai",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "metadata-tracking",
+              "ml",
+              "mlops",
+              "pipelines",
+              "production-ready",
+              "pytorch",
+              "tensorflow",
+              "workflow",
+              "zenml"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -154,12 +325,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brings SQL and AI together.",
+            "homepage": "https://sqlflow.org",
             "id": 151525500,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-18T08:08:51Z",
+            "open_issues": 250,
             "owner": "sql-machine-learning",
             "repo": "sqlflow",
-            "stars": 5188
+            "stars": 5188,
+            "topics": [
+              "ai",
+              "databases",
+              "deep-learning",
+              "machine-learning",
+              "sql-syntax",
+              "sqlflow",
+              "transpiler"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -170,12 +354,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+            "homepage": "https://www.seldon.io/solutions/core/",
             "id": 114898943,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-23T11:39:54Z",
+            "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4779
+            "stars": 4779,
+            "topics": [
+              "aiops",
+              "deployment",
+              "kubernetes",
+              "machine-learning",
+              "machine-learning-operations",
+              "mlops",
+              "production-machine-learning",
+              "serving"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -186,12 +384,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Infra / AI Orchestration / AI Control Plane",
+            "homepage": "https://polyaxon.com",
             "id": 77383688,
             "language": "MDX",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:15:50Z",
+            "open_issues": 126,
             "owner": "polyaxon",
             "repo": "polyaxon",
-            "stars": 3726
+            "stars": 3726,
+            "topics": [
+              "agents",
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "harness",
+              "hyperparameter-optimization",
+              "jupyter",
+              "jupyterlab",
+              "k8s",
+              "keras",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "notebook",
+              "pipelines",
+              "pytorch",
+              "reinforcement-learning",
+              "sandbox",
+              "tensorflow",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -202,12 +426,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elyra extends JupyterLab with an AI centric approach.",
+            "homepage": "https://elyra.readthedocs.io/en/stable/",
             "id": 216914329,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T16:36:12Z",
+            "open_issues": 262,
             "owner": "elyra-ai",
             "repo": "elyra",
-            "stars": 1996
+            "stars": 1996,
+            "topics": [
+              "ai",
+              "airflow",
+              "anaconda",
+              "apache-airflow",
+              "binder",
+              "docker",
+              "elyra",
+              "hacktoberfest",
+              "jupyterlab",
+              "jupyterlab-extension",
+              "jupyterlab-extensions",
+              "jupyterlab-notebooks",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "machine-learning",
+              "notebook-jupyter",
+              "notebooks",
+              "pipelines",
+              "pypi",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -218,12 +468,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source ML Model Versioning, Metadata, and Experiment Management",
+            "homepage": null,
             "id": 71305435,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-23T17:06:34Z",
+            "open_issues": 194,
             "owner": "VertaAI",
             "repo": "modeldb",
-            "stars": 1749
+            "stars": 1749,
+            "topics": [
+              "machine-learning",
+              "mit",
+              "model-management",
+              "model-versioning",
+              "modeldb",
+              "verta"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -234,12 +496,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipelines, and online applications.",
+            "homepage": "https://mlrun.org",
             "id": 205706595,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:24:42Z",
+            "open_issues": 122,
             "owner": "mlrun",
             "repo": "mlrun",
-            "stars": 1693
+            "stars": 1693,
+            "topics": [
+              "data-engineering",
+              "data-science",
+              "experiment-tracking",
+              "kubernetes",
+              "machine-learning",
+              "mlops",
+              "mlops-workflow",
+              "model-serving",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -250,12 +528,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.",
+            "homepage": "https://couler-proj.github.io/couler/index.html",
             "id": 288523518,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-08T03:31:54Z",
+            "open_issues": 21,
             "owner": "couler-proj",
             "repo": "couler",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "apache-airflow",
+              "argo-workflows",
+              "cloud-native",
+              "distributed-computing",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "python",
+              "scheduler",
+              "tekton-pipelines",
+              "unified-api",
+              "unified-interface",
+              "workflow-automation",
+              "workflow-engine",
+              "workflow-management"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -266,12 +565,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubeflow’s superfood for Data Scientists",
+            "homepage": "https://kale.kubeflow.org/",
             "id": 167412097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:12:30Z",
+            "open_issues": 59,
             "owner": "kubeflow",
             "repo": "kale",
-            "stars": 704
+            "stars": 704,
+            "topics": [
+              "jupyter-notebook",
+              "kubeflow",
+              "kubeflow-pipelines",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -282,12 +591,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "deployKF builds machine learning platforms on Kubernetes. We combine the best of Kubeflow, Airflow†, and MLflow† into a complete platform.",
+            "homepage": "https://www.deploykf.org/",
             "id": 614078982,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-03T00:31:48Z",
+            "open_issues": 66,
             "owner": "deployKF",
             "repo": "deployKF",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "argocd",
+              "artificial-intelligence",
+              "gitops",
+              "kubeflow",
+              "kubernetes",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -298,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T02:16:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:48:09Z",
+            "open_issues": 12,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -314,12 +641,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud Pipelines Editor is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.",
+            "homepage": "https://cloud-pipelines.net/pipeline-editor/",
             "id": 379524484,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-09T07:46:11Z",
+            "open_issues": 1,
             "owner": "Cloud-Pipelines",
             "repo": "pipeline-editor",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "google-cloud",
+              "google-cloud-platform",
+              "google-cloud-vertex",
+              "google-cloud-vertex-ai",
+              "kubeflow-pipelines",
+              "machine-learning",
+              "pipeline",
+              "pipelines",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         }
@@ -338,12 +680,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             },
@@ -354,12 +709,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             },
@@ -370,12 +738,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             },
@@ -386,12 +767,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             },
@@ -402,12 +796,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             },
@@ -418,12 +825,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slides, videos, and supporting files for my public talks",
+                "homepage": "https://terrytangyuan.github.io/public-talks/",
                 "id": 422591810,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-12T15:44:49Z",
+                "open_issues": 0,
                 "owner": "terrytangyuan",
                 "repo": "public-talks",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cloud-native",
+                  "deep-learning",
+                  "gitops",
+                  "kubernetes",
+                  "machine-learning",
+                  "mlops",
+                  "public-speaking"
+                ]
               },
               "first_seen": "2026-08-29T02:26:36.343Z"
             }
@@ -445,12 +865,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the Kubeflow community including proposals and governance information.",
+            "homepage": "https://www.kubeflow.org/docs/about/community/",
             "id": 120491536,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T12:46:35Z",
+            "open_issues": 19,
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "kubeflow",
+              "kubeflow-community"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -461,12 +889,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the Kubeflow community including proposals and governance information.",
+            "homepage": "https://www.kubeflow.org/docs/about/community/",
             "id": 120491536,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T12:46:35Z",
+            "open_issues": 19,
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "kubeflow",
+              "kubeflow-community"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -477,12 +913,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the Kubeflow community including proposals and governance information.",
+            "homepage": "https://www.kubeflow.org/docs/about/community/",
             "id": 120491536,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T12:46:35Z",
+            "open_issues": 19,
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "kubeflow",
+              "kubeflow-community"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         },
@@ -493,12 +937,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about the Kubeflow community including proposals and governance information.",
+            "homepage": "https://www.kubeflow.org/docs/about/community/",
             "id": 120491536,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T12:46:35Z",
+            "open_issues": 19,
             "owner": "kubeflow",
             "repo": "community",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "kubeflow",
+              "kubeflow-community"
+            ]
           },
           "first_seen": "2026-08-29T02:26:36.343Z"
         }
@@ -507,15 +959,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:36.343Z",
+    "last_updated": "2026-08-29T04:49:07.088Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ",
+      "homepage": "https://terrytangyuan.github.io/awesome-kubeflow/",
       "id": 586959213,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-06-20T14:29:05Z",
+      "open_issues": 0,
       "owner": "terrytangyuan",
       "repo": "awesome-kubeflow",
-      "stars": 229
+      "stars": 229,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "cloud-native",
+        "cncf",
+        "data-pipelines",
+        "data-science",
+        "deep-learning",
+        "devops",
+        "kubeflow",
+        "kubeflow-pipelines",
+        "kubernetes",
+        "machine-learning",
+        "mle-pipelines",
+        "mlops",
+        "workflow-orchestration"
+      ]
     },
     "original_repository_sha": "c92e21fe0b9708534bc4561323f790dde7e75f34",
     "enhanced_repository": "enhansome/enhansome-kubeflow",
