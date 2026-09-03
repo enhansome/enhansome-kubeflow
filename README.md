@@ -37,36 +37,36 @@ The Kubeflow project is dedicated to making deployments of machine learning (ML)
 
 Main projects in Kubeflow:
 
-* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,842 | 🐛 0 | 📅 2026-08-21 which provides the front-end to access major components of Kubeflow.
-* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,201 | 🐛 475 | 🌐 Python | 📅 2026-09-02 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
-* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,203 | 🐛 174 | 🌐 Go | 📅 2026-09-02 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
-* [Katib](https://github.com/kubeflow/katib) ⭐ 1,699 | 🐛 113 | 🌐 Python | 📅 2026-09-02 is a Kubernetes-native project for automated machine learning (AutoML).
-* [Arena](https://github.com/kubeflow/arena) ⭐ 819 | 🐛 48 | 🌐 Go | 📅 2026-09-02 is a CLI for Kubeflow.
+* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,846 | 🐛 0 | 📅 2026-08-21 which provides the front-end to access major components of Kubeflow.
+* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,203 | 🐛 480 | 🌐 Python | 📅 2026-09-02 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,203 | 🐛 170 | 🌐 Go | 📅 2026-09-03 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
+* [Katib](https://github.com/kubeflow/katib) ⭐ 1,699 | 🐛 117 | 🌐 Python | 📅 2026-09-03 is a Kubernetes-native project for automated machine learning (AutoML).
+* [Arena](https://github.com/kubeflow/arena) ⭐ 819 | 🐛 48 | 🌐 Go | 📅 2026-09-03 is a CLI for Kubeflow.
 
 Other open source projects that use or integrate with Kubeflow:
 
-* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,951 | 🐛 1,269 | 🌐 Go | 📅 2026-09-02 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,989 | 🐛 138 | 🌐 Python | 📅 2026-09-02 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [KServe](https://github.com/kserve/kserve) ⭐ 5,852 | 🐛 204 | 🌐 Go | 📅 2026-09-01 is a standardized serverless ML inference platform on Kubernetes.
-* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,573 | 🐛 160 | 🌐 Python | 📅 2026-09-02 is a framework to build portable, production-ready MLOps pipelines.
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,956 | 🐛 1,269 | 🌐 Go | 📅 2026-09-03 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 10,990 | 🐛 139 | 🌐 Python | 📅 2026-09-03 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [KServe](https://github.com/kserve/kserve) ⭐ 5,856 | 🐛 198 | 🌐 Go | 📅 2026-09-03 is a standardized serverless ML inference platform on Kubernetes.
+* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,575 | 🐛 163 | 🌐 Python | 📅 2026-09-03 is a framework to build portable, production-ready MLOps pipelines.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,187 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ⭐ 4,779 | 🐛 396 | 🌐 Go | 📅 2026-03-23 is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,727 | 🐛 126 | 🌐 MDX | 📅 2026-08-31 is a platform for building, training, and monitoring large scale deep learning applications.
-* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 1,995 | 🐛 264 | 🌐 Python | 📅 2026-09-02 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,728 | 🐛 126 | 🌐 MDX | 📅 2026-09-03 is a platform for building, training, and monitoring large scale deep learning applications.
+* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 1,995 | 🐛 263 | 🌐 Python | 📅 2026-09-03 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
 * [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,749 | 🐛 194 | 🌐 Java | 📅 2024-07-23 is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
-* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,694 | 🐛 117 | 🌐 Python | 📅 2026-09-02 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,694 | 🐛 113 | 🌐 Python | 📅 2026-09-03 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [Couler](https://github.com/couler-proj/couler) ⭐ 943 | 🐛 21 | 🌐 Python | 📅 2024-10-08 provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) ⭐ 704 | 🐛 63 | 🌐 Python | 📅 2026-09-02 is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
-* [deployKF](https://github.com/deployKF/deployKF) ⭐ 466 | 🐛 66 | 🌐 Shell | 📅 2024-08-03 effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 131 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-02 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
+* [deployKF](https://github.com/deployKF/deployKF) ⭐ 466 | 🐛 65 | 🌐 Shell | 📅 2024-08-03 effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 132 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-03 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
   <a name="books" />
-* [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) ⭐ 69 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-09 web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
+* [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) ⭐ 70 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-09 web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 * [WizStudio](https://wizstudio.litwizlabs.ai) is a web based tool that allows the users to build Kubeflow pipelines using drag and drop interface.
 
 ## Books
 
 * [Continuous Machine Learning with Kubeflow](https://a.co/d/fT6sikP) introduces you to the modern machine learning infrastructure, which includes Kubernetes and the Kubeflow architecture. This book will explain the fundamentals of deploying various AI/ML use cases with TensorFlow training and serving with Kubernetes and how Kubernetes can help with specific projects from start to finish.
-* 🔥\[New!] [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 535 | 🐛 0 | 🌐 Python | 📅 2026-01-06 teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows with real-world scenarios and hands-on projects.
+* 🔥\[New!] [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 536 | 🐛 0 | 🌐 Python | 📅 2026-01-06 teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows with real-world scenarios and hands-on projects.
 * [Kubeflow for Machine Learning: From Lab to Production](https://a.co/d/0cQbySP) helps data scientists build production-grade machine learning implementations with Kubeflow and shows data engineers how to make models scalable and reliable.
 * [Kubeflow in Action: End-to-End Machine Learning](https://www.manning.com/books/kubeflow-in-action-book-cx) is an authoritative hands-on guide to deploying machine learning to production using the Kubeflow MLOps platform.
 * [Kubeflow Operations Guide: Managing Cloud and On-Premise Deployment](https://a.co/d/4R4CJOm) shows data scientists, data engineers, and platform architects how to plan and execute a Kubeflow project to make their Kubernetes workflows portable and scalable.
@@ -229,4 +229,4 @@ Social media accounts:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
