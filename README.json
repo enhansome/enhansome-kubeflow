@@ -81,7 +81,7 @@
             "id": 95700338,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:52:12Z",
+            "last_commit": "2026-10-03T02:21:47Z",
             "open_issues": 228,
             "owner": "kubeflow",
             "repo": "trainer",
@@ -185,7 +185,7 @@
             "open_issues": 1310,
             "owner": "argoproj",
             "repo": "argo-workflows",
-            "stars": 17018,
+            "stars": 17019,
             "topics": [
               "airflow",
               "argo",
@@ -253,7 +253,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T19:27:21Z",
-            "open_issues": 210,
+            "open_issues": 207,
             "owner": "kserve",
             "repo": "kserve",
             "stars": 6062,
@@ -576,8 +576,8 @@
             "id": 167412097,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:49:49Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-02T23:33:32Z",
+            "open_issues": 65,
             "owner": "kubeflow",
             "repo": "kale",
             "stars": 705,
@@ -631,8 +631,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:18:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -682,7 +682,7 @@
             {
               "node_type": "item",
               "title": "Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +711,7 @@
             {
               "node_type": "item",
               "title": "Engineering Cloud Native AI Platform",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -740,7 +740,7 @@
             {
               "node_type": "item",
               "title": "Introducing Couler: Unified Interface for Constructing and Managing Workflows",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,7 +769,7 @@
             {
               "node_type": "item",
               "title": "Production-Ready AI Platform on Kubernetes",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -798,7 +798,7 @@
             {
               "node_type": "item",
               "title": "Towards Cloud-Native Distributed Machine Learning Pipelines at Scale",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle",
-              "description": null,
+              "description": "terrytangyuan/public-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -867,7 +867,7 @@
         {
           "node_type": "item",
           "title": "Kubeflow Steering Committee (KSC)",
-          "description": null,
+          "description": "kubeflow/community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -877,7 +877,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:37:08Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "kubeflow",
             "repo": "community",
             "stars": 199,
@@ -891,7 +891,7 @@
         {
           "node_type": "item",
           "title": "Working Groups",
-          "description": null,
+          "description": "kubeflow/community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:37:08Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "kubeflow",
             "repo": "community",
             "stars": 199,
@@ -915,7 +915,7 @@
         {
           "node_type": "item",
           "title": "Community Governance",
-          "description": null,
+          "description": "kubeflow/community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -925,7 +925,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:37:08Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "kubeflow",
             "repo": "community",
             "stars": 199,
@@ -949,7 +949,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T22:37:08Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "kubeflow",
             "repo": "community",
             "stars": 199,
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:13.320Z",
+    "last_updated": "2026-10-03T04:53:11.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects and resources related to Kubeflow (a CNCF incubating project) ",
