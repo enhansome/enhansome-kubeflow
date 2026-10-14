@@ -39,27 +39,27 @@ The Kubeflow project is dedicated to making deployments of machine learning (ML)
 Main projects in Kubeflow:
 
 * [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,904 | 🐛 1 | 📅 2026-09-30 which provides the front-end to access major components of Kubeflow.
-* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,242 | 🐛 339 | 🌐 Go | 📅 2026-10-13 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
-* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,245 | 🐛 224 | 🌐 Go | 📅 2026-10-13 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
+* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,241 | 🐛 335 | 🌐 Go | 📅 2026-10-14 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,245 | 🐛 239 | 🌐 Go | 📅 2026-10-14 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
 * [Katib](https://github.com/kubeflow/katib) ⭐ 1,705 | 🐛 120 | 🌐 Python | 📅 2026-10-12 is a Kubernetes-native project for automated machine learning (AutoML).
 * [Arena](https://github.com/kubeflow/arena) ⭐ 821 | 🐛 47 | 🌐 Go | 📅 2026-09-25 is a CLI for Kubeflow.
 
 Other open source projects that use or integrate with Kubeflow:
 
-* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,036 | 🐛 1,317 | 🌐 Go | 📅 2026-10-13 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,020 | 🐛 125 | 🌐 Python | 📅 2026-10-13 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [KServe](https://github.com/kserve/kserve) ⭐ 6,108 | 🐛 213 | 🌐 Go | 📅 2026-10-13 is a standardized serverless ML inference platform on Kubernetes.
-* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,616 | 🐛 168 | 🌐 Python | 📅 2026-10-13 is a framework to build portable, production-ready MLOps pipelines.
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,037 | 🐛 1,319 | 🌐 Go | 📅 2026-10-14 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,020 | 🐛 130 | 🌐 Python | 📅 2026-10-14 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [KServe](https://github.com/kserve/kserve) ⭐ 6,115 | 🐛 200 | 🌐 Go | 📅 2026-10-14 is a standardized serverless ML inference platform on Kubernetes.
+* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,616 | 🐛 169 | 🌐 Python | 📅 2026-10-14 is a framework to build portable, production-ready MLOps pipelines.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,188 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ⭐ 4,784 | 🐛 396 | 🌐 Go | 📅 2026-03-23 is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,745 | 🐛 125 | 🌐 MDX | 📅 2026-10-13 is a platform for building, training, and monitoring large scale deep learning applications.
-* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 1,999 | 🐛 268 | 🌐 Python | 📅 2026-10-13 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,746 | 🐛 125 | 🌐 MDX | 📅 2026-10-13 is a platform for building, training, and monitoring large scale deep learning applications.
+* [Elyra](https://github.com/elyra-ai/elyra) ⭐ 2,000 | 🐛 268 | 🌐 Python | 📅 2026-10-13 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
 * [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,752 | 🐛 194 | 🌐 Java | 📅 2024-07-23 is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
-* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,703 | 🐛 122 | 🌐 Python | 📅 2026-10-13 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,703 | 🐛 120 | 🌐 Python | 📅 2026-10-14 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [Couler](https://github.com/couler-proj/couler) ⭐ 943 | 🐛 21 | 🌐 Python | 📅 2024-10-08 provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) ⭐ 705 | 🐛 54 | 🌐 Python | 📅 2026-10-12 is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [deployKF](https://github.com/deployKF/deployKF) ⭐ 463 | 🐛 65 | 🌐 Shell | 📅 2024-08-03 effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-13 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
   <a name="books" />
 * [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-09 web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 * [WizStudio](https://wizstudio.litwizlabs.ai) is a web based tool that allows the users to build Kubeflow pipelines using drag and drop interface.
@@ -129,12 +129,12 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ### Additional videos
 
-* [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](https://github.com/terrytangyuan/public-talks/tree/main/talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
-* [Engineering Cloud Native AI Platform](https://github.com/terrytangyuan/public-talks/tree/main/talks/platform-con-2024-engineering-cloud-native-ai-platform) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
-* [Introducing Couler: Unified Interface for Constructing and Managing Workflows](https://github.com/terrytangyuan/public-talks/tree/main/talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
-* [Production-Ready AI Platform on Kubernetes](https://github.com/terrytangyuan/public-talks/tree/main/talks/kubecon-europe-2024-production-ai-platform-on-k8s) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
-* [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
-* [When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](https://github.com/terrytangyuan/public-talks/tree/main/talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-09-17
+* [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](https://github.com/terrytangyuan/public-talks/tree/main/talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
+* [Engineering Cloud Native AI Platform](https://github.com/terrytangyuan/public-talks/tree/main/talks/platform-con-2024-engineering-cloud-native-ai-platform) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
+* [Introducing Couler: Unified Interface for Constructing and Managing Workflows](https://github.com/terrytangyuan/public-talks/tree/main/talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
+* [Production-Ready AI Platform on Kubernetes](https://github.com/terrytangyuan/public-talks/tree/main/talks/kubecon-europe-2024-production-ai-platform-on-k8s) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
+* [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](https://github.com/terrytangyuan/public-talks/tree/main/talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
+* [When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](https://github.com/terrytangyuan/public-talks/tree/main/talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-14
 * [Best Practices for Deploying LLM Inference, RAG and Fine Tuning Pipelines](https://www.youtube.com/watch?v=EmGe_58524g)
 * [Optimizing Load Balancing and Autoscaling for Large Language Model (LLM) Inference on Kubernetes](https://www.youtube.com/watch?v=TSEGAh1bs4A)
 * [Engaging the KServe Community, The Impact of Integrating a Solutions with Standardized CNCF Projects](https://www.youtube.com/watch?v=S27wzRNsStU)
@@ -211,10 +211,10 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ## Community
 
-* [Kubeflow Steering Committee (KSC)](https://github.com/kubeflow/community/blob/master/KUBEFLOW-STEERING-COMMITTEE.md) ⭐ 200 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
-* [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md) ⭐ 200 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
-* [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md) ⭐ 200 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
-* Community User Surveys ([2024](https://github.com/kubeflow/community/issues/708#issuecomment-2058759541) ⭐ 200 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12, [2023](https://blog.kubeflow.org/kubeflow-user-survey-2023/), [2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
+* [Kubeflow Steering Committee (KSC)](https://github.com/kubeflow/community/blob/master/KUBEFLOW-STEERING-COMMITTEE.md) ⭐ 201 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
+* [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md) ⭐ 201 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
+* [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md) ⭐ 201 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12
+* Community User Surveys ([2024](https://github.com/kubeflow/community/issues/708#issuecomment-2058759541) ⭐ 201 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-12, [2023](https://blog.kubeflow.org/kubeflow-user-survey-2023/), [2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
 * [Community Calendar](https://www.kubeflow.org/docs/about/community/#kubeflow-community-calendars)
 * [GitHub Organization](https://github.com/kubeflow)
 
@@ -230,4 +230,4 @@ Social media accounts:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
