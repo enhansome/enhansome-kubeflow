@@ -38,28 +38,28 @@ The Kubeflow project is dedicated to making deployments of machine learning (ML)
 
 Main projects in Kubeflow:
 
-* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,951 | 🐛 1 | 📅 2026-09-30 which provides the front-end to access major components of Kubeflow.
-* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,261 | 🐛 347 | 🌐 Python | 📅 2026-11-06 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
-* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,273 | 🐛 252 | 🌐 Go | 📅 2026-11-06 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
-* [Katib](https://github.com/kubeflow/katib) ⭐ 1,707 | 🐛 122 | 🌐 Python | 📅 2026-10-31 is a Kubernetes-native project for automated machine learning (AutoML).
+* [Kubeflow Main Repository](https://github.com/kubeflow/kubeflow) ⭐ 15,952 | 🐛 1 | 📅 2026-09-30 which provides the front-end to access major components of Kubeflow.
+* [Pipelines](https://github.com/kubeflow/pipelines) ⭐ 4,262 | 🐛 346 | 🌐 Python | 📅 2026-11-06 is dedicated to making deployments of machine learning workflows on Kubernetes simple, portable, and scalable with Kubeflow.
+* [Training Operator](https://github.com/kubeflow/training-operator) ⭐ 2,273 | 🐛 255 | 🌐 Go | 📅 2026-11-06 provides Kubernetes custom resources that makes it easy to run distributed or non-distributed TensorFlow/PyTorch/Apache MXNet/XGBoost/MPI jobs on Kubernetes.
+* [Katib](https://github.com/kubeflow/katib) ⭐ 1,707 | 🐛 122 | 🌐 Python | 📅 2026-11-06 is a Kubernetes-native project for automated machine learning (AutoML).
 * [Arena](https://github.com/kubeflow/arena) ⭐ 820 | 🐛 46 | 🌐 Go | 📅 2026-09-25 is a CLI for Kubeflow.
 
 Other open source projects that use or integrate with Kubeflow:
 
-* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,082 | 🐛 1,391 | 🌐 Go | 📅 2026-11-05 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
-* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,042 | 🐛 121 | 🌐 Python | 📅 2026-11-05 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
-* [KServe](https://github.com/kserve/kserve) ⭐ 6,192 | 🐛 269 | 🌐 Go | 📅 2026-11-04 is a standardized serverless ML inference platform on Kubernetes.
-* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,635 | 🐛 179 | 🌐 Python | 📅 2026-11-05 is a framework to build portable, production-ready MLOps pipelines.
-* [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,187 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,082 | 🐛 1,395 | 🌐 Go | 📅 2026-11-06 is a container-native workflow engine for orchestrating parallel jobs on Kubernetes.
+* [Kedro](https://github.com/quantumblacklabs/kedro) ⭐ 11,045 | 🐛 121 | 🌐 Python | 📅 2026-11-06 is an open-source Python framework for creating reproducible, maintainable and modular data science code.
+* [KServe](https://github.com/kserve/kserve) ⭐ 6,197 | 🐛 272 | 🌐 Go | 📅 2026-11-06 is a standardized serverless ML inference platform on Kubernetes.
+* [ZenML](https://github.com/zenml-io/zenml) ⭐ 5,637 | 🐛 177 | 🌐 Python | 📅 2026-11-06 is a framework to build portable, production-ready MLOps pipelines.
+* [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,186 | 🐛 250 | 🌐 Go | 📅 2024-04-18 extends SQL to support AI and compiles the SQL program to a workflow that runs on Kubernetes.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ⭐ 4,785 | 🐛 395 | 🌐 Go | 📅 2026-03-23 is an MLOps framework to package, deploy, monitor and manage thousands of production machine learning models.
-* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,747 | 🐛 125 | 🌐 MDX | 📅 2026-11-05 is a platform for building, training, and monitoring large scale deep learning applications.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,747 | 🐛 125 | 🌐 MDX | 📅 2026-11-06 is a platform for building, training, and monitoring large scale deep learning applications.
 * [Elyra](https://github.com/elyra-ai/elyra) ⭐ 2,004 | 🐛 244 | 🌐 Python | 📅 2026-11-05 is a set of AI-centric extensions to JupyterLab Notebooks, that contains a visual pipeline editor.
 * [ModelDB](https://github.com/VertaAI/modeldb) ⭐ 1,752 | 🐛 194 | 🌐 Java | 📅 2024-07-23 is an open-source system to version machine learning models including their ingredients code, data, config, and environment and to track ML metadata across the model lifecycle.
-* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,702 | 🐛 107 | 🌐 Python | 📅 2026-11-05 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
+* [MLRun](https://github.com/mlrun/mlrun) ⭐ 1,702 | 🐛 108 | 🌐 Python | 📅 2026-11-06 is an open MLOps platform for quickly building and managing continuous ML applications across their lifecycle.
 * [Couler](https://github.com/couler-proj/couler) ⭐ 943 | 🐛 22 | 🌐 Python | 📅 2024-10-08 provides a unified interface for constructing and managing workflows on different workflow engines.
 * [Kale](https://github.com/kubeflow-kale/kale) ⭐ 706 | 🐛 35 | 🌐 Python | 📅 2026-11-05 is aims at simplifying the data science experience of deploying Kubeflow Pipelines workflows.
 * [deployKF](https://github.com/deployKF/deployKF) ⭐ 463 | 🐛 64 | 🌐 Shell | 📅 2024-08-03 effortlessly integrates Kubeflow and leading MLOps tools on Kubernetes into open ML platforms.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 151 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-05 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 151 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-06 is a multi-cluster Kubernetes dashboard with AI/ML workload observability, GPU utilization tracking, and CNCF project integrations including Kubeflow pipeline monitoring.
   <a name="books" />
 * [Pipeline Editor](https://github.com/Cloud-Pipelines/pipeline-editor) ⭐ 72 | 🐛 1 | 🌐 TypeScript | 📅 2022-08-09 web app that allows the users to build and run Machine Learning pipelines using drag and drop. A VSCode extension can be found [here](https://marketplace.visualstudio.com/items?itemName=Cloud-pipelines.pipeline-editor-vscode).
 * [WizStudio](https://wizstudio.litwizlabs.ai) is a web based tool that allows the users to build Kubeflow pipelines using drag and drop interface.
@@ -211,10 +211,10 @@ Please check out the [official Kubeflow YouTube channel](https://www.youtube.com
 
 ## Community
 
-* [Kubeflow Steering Committee (KSC)](https://github.com/kubeflow/community/blob/master/KUBEFLOW-STEERING-COMMITTEE.md) ⭐ 201 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-11-03
-* [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md) ⭐ 201 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-11-03
-* [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md) ⭐ 201 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-11-03
-* Community User Surveys ([2024](https://github.com/kubeflow/community/issues/708#issuecomment-2058759541) ⭐ 201 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-11-03, [2023](https://blog.kubeflow.org/kubeflow-user-survey-2023/), [2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
+* [Kubeflow Steering Committee (KSC)](https://github.com/kubeflow/community/blob/master/KUBEFLOW-STEERING-COMMITTEE.md) ⭐ 201 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md) ⭐ 201 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md) ⭐ 201 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* Community User Surveys ([2024](https://github.com/kubeflow/community/issues/708#issuecomment-2058759541) ⭐ 201 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-11-06, [2023](https://blog.kubeflow.org/kubeflow-user-survey-2023/), [2022](https://blog.kubeflow.org/kubeflow-user-survey-2022/), [2019 Fall](https://medium.com/kubeflow/kubeflow-community-user-survey-fall-2019-a84776c71743), [2019 Spring](https://medium.com/kubeflow/kubeflow-community-user-survey-spring-2019-44f86c794e67))
 * [Community Calendar](https://www.kubeflow.org/docs/about/community/#kubeflow-community-calendars)
 * [GitHub Organization](https://github.com/kubeflow)
 
